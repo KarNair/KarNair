@@ -1,6 +1,6 @@
 ### Greetings fellow earthling! I am Karthik 👋
 I develop systems and do bioinformatics for a living. Outside of living, I 
-- like playing around Python, Arduino, and the occasional Raspberry-pi :man_technologist:
+- Play around with Python, Arduino, and the occasional Raspberry-pi :man_technologist:
 - Analyse random datasets because...why not? :skateboard:
 - Do visual astronomy in exchange for food 🔭
 - Automate anything that annoys me :space_invader:
